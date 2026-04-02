@@ -9,7 +9,7 @@
 
 ### JobPortal (LIVE)
 
-* 🌐 https://job-portal-i6kb.vercel.app/
+* https://job-portal-i6kb.vercel.app/
 * Full-stack job platform with authentication & dashboards
 * Tech: MERN, JWT, Cloudinary
 
@@ -31,7 +31,7 @@
 
 ##  Tech Stack
 
-React | Next.js | Node.js | Express | MongoDB | Redis
+React | Next.js | Node.js | Express | MongoDB | Redis | Java | JavaScript | Next.js | Socket.io | Tailwind css | JWT
 
 ---
 
