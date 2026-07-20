@@ -38,20 +38,20 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/vaishnavi-ambhore-157131335/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="65"/>
+<a href="https://www.linkedin.com/in/vaishnavi-ambhore-157131335/" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="LinkedIn"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:vaishnaviambhore849@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="65"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="Gmail"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/vaish12345678" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="65"/>
+<a href="https://github.com/vaish12345678" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub"/>
 </a>
 
 </p>
@@ -59,5 +59,3 @@
 <br>
 
 ---
-
-<br>
