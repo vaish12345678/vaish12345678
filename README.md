@@ -8,48 +8,42 @@
 
 ---
 
-<br>
-
 ## 🛠️ Tools and Frameworks
 
-<br>
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,react,nextjs,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=java,react,nextjs,nodejs,express,mongodb" />
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,spring,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,spring,git,github,vscode" />
 </p>
-
-<br>
 
 ---
 
-<br>
+
+## 👩‍💻 About Me
+
+- 🎓 Final Year Computer Engineering Student
+- 💻 Passionate about Full Stack Development
+- 🌱 Currently learning **Spring Boot, Docker & DevOps**
+- 🚀 Love building scalable web applications
+- 🤝 Open to Internship & Full-Time Opportunities
+- 📍 Pune, Maharashtra
+
+---
 
 ## 📬 Let's Connect!
 
-<br>
-
 <p align="center">
-<a href="https://www.linkedin.com/in/vaishnavi-ambhore-157131335/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:vaishnaviambhore849@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="60"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/vaish12345678" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="60"/>
-</a>
+  <a href="https://www.linkedin.com/in/vaishnavi-ambhore-157131335">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:vaishnaviambhore849@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/vaish12345678">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
-
-<br>
 
 ---
