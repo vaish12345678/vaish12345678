@@ -1,58 +1,63 @@
-<!-- ========================= HEADER ========================= -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Vaishnavi</h1>
+# Hi 👋, I'm Vaishnavi
 
-<h3 align="center">
-🚀 Full Stack Developer (MERN + Spring Boot) | Final Year Computer Engineering Student
-</h3>
+### Full-Stack Developer | Spring Boot | MERN | Tech Explorer
 
-## 👩‍💻 About Me
-
-- 🎓 Final Year Computer Engineering Student
-- 💻 Passionate about Full Stack Development
-- 🌱 Currently learning **Spring Boot, Hibernate, JPA
-- 🚀 Love building scalable web applications
-- 🤝 Open to Internship & Full-Time Opportunities
-- 📍 Pune, Maharashtra
+</div>
 
 ---
 
-## 🛠 Tech Stack
+<br>
+
+## 🛠️ Tools and Frameworks
+
+<br>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,nextjs,mongodb,mysql,redis,git,github,vscode,tailwind,html,css,javascript" />
+
+<img src="https://skillicons.dev/icons?i=js,java,react,nextjs,tailwind,nodejs,express,mongodb,mysql,spring,git" />
+
 </p>
 
+<p align="center">
 
-# 📫 Connect with Me
+<img src="https://skillicons.dev/icons?i=github,docker,vscode,linux,postman,redis,npm,firebase" />
+
+</p>
+
+<br>
+
+---
+
+<br>
+
+## 📬 Let's Connect!
+
+<br>
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/vaishnavi-ambhore-157131335/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/vaishnavi-ambhore-157131335/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="65"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:vaishnaviambhore849@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" width="65"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/vaish12345678" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="65"/>
 </a>
 
 </p>
 
-
-# 💡 Quote
-
-<p align="center">
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
-</p>
+<br>
 
 ---
 
-<p align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-</p>
+<br>
