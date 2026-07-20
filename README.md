@@ -25,7 +25,7 @@
 
 - 🎓 Final Year Computer Engineering Student
 - 💻 Passionate about Full Stack Development
-- 🌱 Currently learning **Spring Boot, Docker & DevOps**
+- 🌱 Currently learning **Spring Boot, Hibernate, JPA**
 - 🚀 Love building scalable web applications
 - 🤝 Open to Internship & Full-Time Opportunities
 - 📍 Pune, Maharashtra
